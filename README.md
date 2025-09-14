@@ -27,6 +27,8 @@ pip install -r requirements.txt
 ## ▶️ Run the Project
 
 After installing the requirements, start the program with:
+
+
 python posture_guard.py
 
 
