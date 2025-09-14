@@ -62,4 +62,4 @@ This helps reduce back/neck strain from long working hours and promotes better e
 
 ### Bad Posture Alert
 
-![Bad Posture Example](https://via.placeholder.com/500x300?text=Bad+Posture+Alert+Sound+Played)
+![Image](https://github.com/user-attachments/assets/de561667-7ecc-4551-bb7a-060ead227f83)
